@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themaximum929&label=Profile%20views&color=0e75b6&style=flat" alt="themaximum929" /> </p>
 
+- Recent Project: **AI Virtual Character (Final Year Project)**
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📝 I regularly write articles on [OpenRice](OpenRice)
